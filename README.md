@@ -15,3 +15,6 @@
   
   <code>[Урок 15](https://sayrex89.github.io/Lesson_15/src/index.html "Урок 15") - Добавление шрифтов
   </code>
+
+<code>[Урок 16](https://sayrex89.github.io/Lesson_16/index.html "Урок 16") - Верстка макета 1й страницы + добавление шрифтов + фон
+  </code>
