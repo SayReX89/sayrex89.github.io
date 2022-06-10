@@ -12,3 +12,6 @@
 
 <code>[Урок 14](https://sayrex89.github.io/Lesson_14/index.html "Урок 14") - Верстка шапки проекта
   </code>
+  
+  <code>[Урок 15](https://sayrex89.github.io/Lesson_14/index.html "Урок 15") - Добавление шрифтов
+  </code>
