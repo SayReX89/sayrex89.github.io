@@ -1,0 +1,93 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: Tahoma, sans-serif;
+	line-height: 1.5; 
+	color: #333333;
+}
+.section {
+	padding: 30px 10%;
+
+}
+.main {
+	margin-top: 83px;
+	text-align: center;
+}
+.video, .form {
+	display: inline-block;
+	vertical-align: top;
+}
+.form {
+	border: 5px solid #2727d9;
+	padding: 20px;
+	text-align: center;
+	margin-left: 30px;
+}
+.form input {
+	width: 300px;
+	height: 50px;
+	padding-left: 15px;
+	font-size: 18px;
+	margin-top: 20px;
+	display: block;
+}
+.form-header {
+	font-size: 20px;
+	text-align: center;
+	font-weight: 900px;
+	margin-bottom: 30px;
+}
+.header {
+	text-align: center;
+	font-size: 24px;
+	font-weight: 300;
+}
+.header span {
+	display: block;
+	text-transform: uppercase;
+}
+.btm {
+	font-size: 18px;
+	color: #fff;
+	font-weight: 900;
+	background-color: #2727d9;
+	border: none;
+	widows: 300px;
+	height: 60px;
+	margin-top: 20px;
+	display: block;
+	margin: 11px auto;
+
+}
+.col {
+	display: inline-block;
+	text-align: center;
+	margin: 10px 50px;
+}
+.feature-header {
+	text-align: center;
+	font-weight: 900;
+	text-transform: uppercase;
+	font-style: 900px;
+}
+.featurу {
+	margin-top: 30px;
+	text-align: center;
+
+}
+h3 {
+	text-align: center;
+	font-weight: 900px;
+	text-transform: uppercase;
+	margin-top: 100px;
+}
+.foto {
+	text-align: center;
+	margin-bottom: 40px;
+}
+.fotoklient img{
+	display: inline-block;
+	text-align: center;
+	margin: 25px;
+}
