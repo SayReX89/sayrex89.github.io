@@ -18,3 +18,6 @@
 
 <code>[Урок 16](https://sayrex89.github.io/Lesson_16/index.html "Урок 16") - Верстка макета 1й страницы + добавление шрифтов + фон
   </code>
+
+<code>[Урок 17](https://sayrex89.github.io/Lesson_17/index.html "Урок 17") - Эффект при наведении, нажатии на кнопки, фото.
+  </code>
