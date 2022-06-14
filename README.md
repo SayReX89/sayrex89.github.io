@@ -24,3 +24,6 @@
 
 <code>[Урок 18](https://sayrex89.github.io/Lesson_18/index.html "Урок 18") - Адаптация 1й страницы под разный размер экрана
   </code>
+
+<code>[Урок 19](https://sayrex89.github.io/Lesson_19/index.html "Урок 19") - Создание слайдеров
+  </code>
