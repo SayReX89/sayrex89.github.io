@@ -21,3 +21,6 @@
 
 <code>[Урок 17](https://sayrex89.github.io/Lessons_17/index.html "Урок 17") - Эффект при наведении, нажатии на кнопки, фото.
   </code>
+
+<code>[Урок 18](https://sayrex89.github.io/Lesson_18/index.html "Урок 18") - Адаптация 1й страницы под разный размер экрана
+  </code>
