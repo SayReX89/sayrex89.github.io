@@ -27,3 +27,6 @@
 
 <code>[Урок 19](https://sayrex89.github.io/Lesson_19/index.html "Урок 19") - Создание слайдеров
   </code>
+
+<code>[Урок 20](https://sayrex89.github.io/Lesson_20/index.html "Урок 20") - Создание слайдеров на 1й страница Слик слайдер
+  </code>
