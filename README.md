@@ -36,3 +36,6 @@
   
 <code>[Урок 22](https://sayrex89.github.io/Lesson_22/index.html "Урок 22") - Добавление всплывающего окна в шапку сайту
   </code>
+
+<code>[Урок 23 часть 1](https://sayrex89.github.io/Lesson_23_1/index.html "Урок 23") - Верстка регистрации с использованием Табов
+  </code>
