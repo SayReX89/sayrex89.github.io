@@ -42,3 +42,6 @@
   
  <code>[Урок 23 часть 2](https://sayrex89.github.io/Lesson_23(2)/index.html "Урок 23") - Работа с аккордами
  </code>
+ 
+ <code>[Урок 24](https://sayrex89.github.io/Lesson_24/index.html "Урок 24") - Добавление прайса с ценами на основную страницу
+ </code>
