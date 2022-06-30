@@ -39,3 +39,6 @@
 
 <code>[Урок 23 часть 1](https://sayrex89.github.io/Lesson_23_1/index.html "Урок 23") - Верстка регистрации с использованием Табов
   </code>
+  
+ <code>[Урок 23 часть 2](https://sayrex89.github.io/Lesson_23(2)/index.html "Урок 23") - Работа с аккордами
+ </code>
