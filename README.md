@@ -45,3 +45,6 @@
  
  <code>[Урок 24](https://sayrex89.github.io/Lesson_24/index.html "Урок 24") - Добавление прайса с ценами на основную страницу
  </code>
+  
+ <code>[Урок 25](https://sayrex89.github.io/Lesson_25/index.html "Урок 25") - Добавление анимации в форму
+ </code>
