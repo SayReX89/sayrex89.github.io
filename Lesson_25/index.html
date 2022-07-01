@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Адаптивная верстка</title>
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+	
+</head>
+<body>
+
+<div class="fon">
+	<div class="bg-img">
+		<div>
+		
+			<!-- Nav tabs -->
+			<ul class="nav nav-tabs" role="tablist">
+				<li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Вход</a></li>
+				<li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Регистрация</a></li>
+			</ul>
+		
+			<!-- Tab panes -->
+			<div class="tab-content">
+				<!-- Первая форма -->
+				<div role="tabpanel" class="tab-pane active" id="home">
+					<form action="/action_page.php" class="container">
+					
+						<div class="form animate__flash">
+							<div class="form-header animate__flash">
+								<input type="text"  placeholder="Ваше имя">					
+								<input type="text"  placeholder="Пароль">
+								<p class="header text-left"><strong>Забыли пароль?</strong></p>
+								<div class="knopka animate__flash">
+									<input class="check" type="checkbox">
+									<span class="inp">Напомнить мне</span>
+									<div class="in-btn">
+										<button type="button">Войти</button>
+									</div>
+
+								</div>
+								
+								
+								
+							</div>
+						</div>
+					</form>
+				</div>
+
+				<!-- Вторая форма регистрация -->
+				<div role="tabpanel" class="tab-pane" id="profile">
+					<form action="/action_page.php" class="container">
+
+						<div class="form">
+							<div class="form-header">
+								<input type="text" placeholder="Ваш email">
+								<input type="text" placeholder="Ваше имя">
+								<input type="text" placeholder="Пароль">
+								<div class="register-btn">
+									<button type="button">Регистрация</button>
+								</div>
+								
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		
+		</div>
+
+</div>
+	</div>
+		
+			<!-- jQuery -->
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+			<!-- Bootstrap JavaScript -->
+			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+			<script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"</script>
+
+
+</body>
+</html>
