@@ -48,3 +48,6 @@
   
  <code>[Урок 25](https://sayrex89.github.io/Lesson_25/index.html "Урок 25") - Добавление анимации в форму
  </code>
+ 
+ <code>[Урок 26](https://sayrex89.github.io/Lesson_26/index.html "Урок 26") - Добавление отзывов "Слайдер"
+ </code>
