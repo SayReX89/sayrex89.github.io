@@ -51,3 +51,6 @@
  
  <code>[Урок 26](https://sayrex89.github.io/Lesson_26/index.html "Урок 26") - Добавление отзывов "Слайдер"
  </code>
+ 
+ <code>[Урок 27](https://sayrex89.github.io/Lesson_27/index.html "Урок 27") - Добавление видео на фон страницы
+ </code>
