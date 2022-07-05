@@ -54,3 +54,6 @@
  
  <code>[Урок 27](https://sayrex89.github.io/Lesson_27/index.html "Урок 27") - Добавление видео на фон страницы
  </code>
+
+ <code>[Урок 28](https://sayrex89.github.io/Lesson_28/index.html "Урок 28") - Добавление формы заявки под слайдер, адаптация под маленький экран
+ </code>
