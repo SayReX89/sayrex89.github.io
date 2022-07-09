@@ -57,3 +57,6 @@
 
  <code>[Урок 28](https://sayrex89.github.io/Lesson_28/index.html "Урок 28") - Добавление формы заявки под слайдер, адаптация под маленький экран
  </code>
+ 
+  <code>[Урок 29](https://sayrex89.github.io/Lesson_29/index.html "Урок 29") - Добавление Parallax на сторонний сайт
+ </code>
