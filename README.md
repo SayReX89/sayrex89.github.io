@@ -60,3 +60,6 @@
  
   <code>[Урок 29](https://sayrex89.github.io/Lesson_29/index.html "Урок 29") - Добавление Parallax на сторонний сайт
  </code>
+ 
+  <code>[Урок 30](https://sayrex89.github.io/Lesson_30/index.html "Урок 30") - Верстаем схему работы и все включено
+ </code>
