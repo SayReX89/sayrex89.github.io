@@ -63,3 +63,6 @@
  
   <code>[Урок 30](https://sayrex89.github.io/Lesson_30/index.html "Урок 30") - Верстаем схему работы и все включено
  </code>
+
+  <code>[Урок 31](https://sayrex89.github.io/Lesson_31/index.html "Урок 31") - Яндекс карты на сайт
+ </code>
