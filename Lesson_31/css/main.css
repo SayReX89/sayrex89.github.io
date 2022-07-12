@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+.section {
+  margin: 5rem 10rem;
+}
+body {
+  margin: 0;
+}
+.adres {
+  display: inline-block;
+  background-color: #c60b0b;
+  color: white;
+  text-align: center;
+  margin-right: 0;
+  height: 430px;
+}
+.adres h1 {
+  margin-top: 4rem;
+  margin-bottom: 4.6rem;
+  font-size: 30px;
+}
+.adres p {
+  margin-bottom: 4.6rem;
+  font-size: 18px;
+}
+.map {
+  margin-left: -1.5rem;
+}
+.down {
+  text-align: center;
+  margin-top: 3rem;
+}
+.down img {
+  display: inline-block;
+  text-align: right;
+}
+.down h4 {
+  margin-left: -4rem;
+  margin-top: 4px;
+  text-align-last: left;
+}
+.down h3 {
+  margin-top: 0.5rem;
+}
