@@ -66,3 +66,6 @@
 
   <code>[Урок 31](https://sayrex89.github.io/Lesson_31/index.html "Урок 31") - Яндекс карты на сайт
  </code>
+ 
+ <code>[Урок 32](https://sayrex89.github.io/Lesson_32/index.html "Урок 32") - Верстаем блок "Развеиваем сомнения"
+ </code>
